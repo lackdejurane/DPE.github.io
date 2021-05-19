@@ -1,8 +1,7 @@
 ---
-title: DPE Development Page
-description: The Storyline and Plot points(Lore) of the game
-ms.date: 05/19/2021
-localization_priority: Priority
+Title: DPE Development Page
+Description: The Storyline and Plot points(Lore) of the game
+Date: 05/19/2021
 ---
 
 ## Welcome to the Dark Platinum Development Page!
