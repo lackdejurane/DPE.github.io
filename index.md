@@ -2,8 +2,7 @@
 Title: DPE Development Page
 Description: The Storyline and Plot points(Lore) of the game
 Date: 05/19/2021
---- 
-theme: jekyll-theme-cayman
+---
 
 ## Welcome to the Dark Platinum Development Page!
 Welcome, to the world of Pokemon, I suppose?
